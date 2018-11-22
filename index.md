@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Jeremy Young的博客
 
-I'm glad you are here. I plan to talk about ...
+欢迎来到我的**博客！**
